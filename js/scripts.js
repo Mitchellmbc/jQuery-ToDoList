@@ -30,5 +30,4 @@ function newItem(){
      $(function(){
        $('#list').sortable();
      });
-
-   }
+}
